@@ -1,0 +1,27 @@
+# dialogue.txt
+# A resource file in text format to store all dialogue
+#
+# Initial prompt to user
+intro=Hello please answer the questions in the format given by the prompt!
+# Firstname
+firstname=What is your first name? Ex. John
+name_error=Error Processing name. Invalid character/format found. Please reinput.
+# Lastname
+lastname=What is your last name? Ex. Doe
+# Birthday
+birthday=What is your date of birth? month/day/year ex. 1/4/1999
+birthday_error=Error Processing date. Invalid character/format/date > today found. Please reinput.
+# Age Checks
+age_under18=Due to being under 18, do your parents allow registration? y/n
+age_under16=Sorry anyone younger than 16 years of age is unable to register. :(
+# Married
+married=Are you married? ex. y/n
+married_error=Error Processing marriage. Invalid character/format. Please reinput.
+#
+# Spouse Details
+# Spouse Firstname
+spouse_firstname=What is your spouse's first name? Ex. John
+# Spouse Lastname
+spouse_lastname=What is your spouse's last name? Ex. Doe
+# Spouse Birthday
+spouse_birthday=What is your spouse date of birth? month/day/year ex. 1/4/1999
